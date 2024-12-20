@@ -90,7 +90,7 @@ AFK Timer는 Windows 환경에서 유휴(AFK, Away From Keyboard) 시간을 추�
 
 ## 언인스톨 방법
 
-1. `uninstall_afktimer.reg` 파일을 실행하여 시작 프로그램 레지스트리 설정을 제거합니다.
+1. `동봉된 deletereg.exe` 파일을 실행하여 시작 프로그램 레지스트리 설정을 제거합니다.(실패시 관리자 권한으로 실행해주세요.)
 2. 프로그램 실행 파일과 관련 데이터(`Documents/AFKTimer` 폴더)를 삭제합니다. (후자는 재설치 목적이 있을 시 남겨두셔도 좋습니다.)
 
 ### 문제 해결
