@@ -154,7 +154,7 @@ Feel free to open a discussion or issue, and I will address them as soon as poss
 
 This happens because the game’s security program intercepts keyboard/mouse input and output.
 Similar issues may occur in other games with similar mechanisms.
-Unfortunately, many of the solutions for this problem may involve violating the terms of service, so it might take some time to find a proper resolution.
+Unfortunately, many of the solutions for this problem may involve violating the terms of service, so it might take some time to find a proper resolution. For temporary solution, you may click pause button to bypass afk situation.
 
 ### Downloads
 
