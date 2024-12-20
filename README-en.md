@@ -150,6 +150,11 @@ Feel free to open a discussion or issue, and I will address them as soon as poss
    ```bash
    pip install matplotlib
    ```
+#### Q: Even while playing MapleStory, I am being marked as AFK!
+
+This happens because the game’s security program intercepts keyboard/mouse input and output.
+Similar issues may occur in other games with similar mechanisms.
+Unfortunately, many of the solutions for this problem may involve violating the terms of service, so it might take some time to find a proper resolution.
 
 ### Downloads
 
