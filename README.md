@@ -74,6 +74,15 @@ AFK Timer는 Windows 환경에서 유휴(AFK, Away From Keyboard) 시간을 추�
    git clone https://github.com/username/afk-timer.git
    cd afk-timer
 
+2. 필수 라이브러리를 설치합니다:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. 스크립트를 실행합니다:
+   ```bash
+   python idletimer.py
+   ```
+
 ## 사용법
 
 1. **프로그램 실행** 후, 상단에 떠 있는 작은 위젯에서 유휴 시간을 실시간으로 확인할 수 있습니다.
