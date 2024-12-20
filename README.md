@@ -1,0 +1,2 @@
+# AFKTimer
+Prohibit Procrastination
