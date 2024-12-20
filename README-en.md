@@ -96,7 +96,7 @@ AFK data and configuration files are saved in the following locations:
 
 ## Uninstallation
 
-1. Run the `uninstall_afktimer.reg` file to remove the program from startup settings.
+1. Run the `deletereg.exe` file to remove the program from startup settings. (If it fails, you can try administrator mode)
 2. Delete the program's executable file and related data (e.g., `Documents/AFKTimer`).
 
 ---
