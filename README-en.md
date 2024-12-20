@@ -151,6 +151,13 @@ Feel free to open a discussion or issue, and I will address them as soon as poss
    pip install matplotlib
    ```
 
+### Downloads
+
+Check the 'releases' tab, as you can see it on mid right of repository page.
+
+If you don't have a specific purpose, it's best to download the latest release.
+
+
 ---
 
 ## License
