@@ -1,3 +1,6 @@
+[English Version](README-en.md)
+
+
 ## 목차
 1. [프로젝트 소개](#afk-timer)
 2. [만든 목적](#만든-목적)
