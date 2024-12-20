@@ -150,7 +150,8 @@ class AFKWidget:
                     "지금 등록 파일을 실행하시겠습니까?"
                 )
                 if response:
-                    os.startfile("autostart_afktimer.reg")
+                    history_path = os.path.join(self.get_app_directory(), 'autostart_afktimer.reg')
+                    os.startfile(history_path)
                 return False
             
         # 레지스트리 키가 없는 경우
